@@ -1,0 +1,61 @@
+#guyguy {
+  color: lightblue;
+  font-size: 50px;
+  background-color: #310159;
+  background-size: 100px;
+  font-family: comic;
+  text-align: center;
+}
+
+#Faisal {
+  color: brown;
+  text-align: center;
+}
+
+p {
+  color : darkorchid;
+  font-size: 15px;
+  font-family: verdana;
+  margin-top: initial;
+  border:5px solid blue;
+  border-style: 30px;
+  margin-left: 30px;
+  padding: 50px;
+}
+
+#Freda {
+  color: deeppink;
+  border: 10px solid blue;
+  text-align: center;
+}
+
+#Bossu {
+  color: yellow;
+  font-family: cursive;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+* {box-sizing:border-box}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
